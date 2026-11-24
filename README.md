@@ -1,6 +1,6 @@
 ![Header](./Resources/Header.png)
 
-# Kryptonite (macOS Tahoe / OCLP 3.0.0 Fork)
+# Kryptonite — Works on macOS Tahoe via OCLP
 
 An updated fork of [mayankk2308/kryptonite](https://github.com/mayankk2308/kryptonite) that restores and extends **Thunderbolt 3 device, dock, and eGPU support on Thunderbolt 1 & 2 Macs** running modern macOS versions up to **macOS 26 (Tahoe)** alongside **OpenCore Legacy Patcher (OCLP) 3.0.0**.
 
